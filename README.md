@@ -1,7 +1,7 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/image-ac3b3.appspot.com/o/git%2F102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg?alt=media&token=fb25f482-3997-41dc-9e89-a4c3a79cef4e))](https://shantanupaul81.github.io/portfolio/)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/image-ac3b3.appspot.com/o/git%2F1689145296458.jpeg?alt=media&token=b2a7c115-8236-4ca1-8572-7cb2beb82b8a)](https://shantanupaul81.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Shantanu Paul</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/image-ac3b3.appspot.com/o/git%2Fprogrammer.gif?alt=media&token=1b0ed406-ab54-44ea-a84f-115de1c347ee">
+<img align="center" alt="coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/image-ac3b3.appspot.com/o/git%2Fprogrammer.gif?alt=media&token=1b0ed406-ab54-44ea-a84f-115de1c347ee">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shantanupaul81" alt="shantanupaul81" /></a> </p>
 
