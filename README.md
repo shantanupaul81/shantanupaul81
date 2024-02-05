@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shantanupaul81.github.io/portfolio/](https://shantanupaul81.github.io/portfolio/)
 
-- 📫 How to reach me **shantanupaul909@gmail.com**
+- 📫 How to reach me **shantanupaul64@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1850B-1FsWKShu8FgxLPsYW7gxoDLbiO8zNn3ahp3I5Y/edit](https://docs.google.com/document/d/1850B-1FsWKShu8FgxLPsYW7gxoDLbiO8zNn3ahp3I5Y/edit)
 
